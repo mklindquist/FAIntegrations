@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FAIntegrations", "FAIntegrations\FAIntegrations.dtproj", "{0A09F12E-77FF-49BC-AEFE-6D6C11993896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A09F12E-77FF-49BC-AEFE-6D6C11993896}.Development|Default.ActiveCfg = Development
+		{0A09F12E-77FF-49BC-AEFE-6D6C11993896}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0921BF15-2E90-465C-A296-BA5B735E6287}
+	EndGlobalSection
+EndGlobal
